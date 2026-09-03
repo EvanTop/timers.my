@@ -113,7 +113,7 @@ Timers.my 相信时间是一种可以被感知、被管理的系统。通过将�
 
 ## 📜 许可证
 
-MIT License © [Your Name]
+MIT License © [Evan]
 
 ---
 
